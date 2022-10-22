@@ -7,7 +7,7 @@ And I don't rage ~~hard~~.
 
 #### Holopin badges
 
-[![@Ansh242's Holopin board](https://www.holopin.io/@ansh242)
+[@Ansh242's Holopin board](https://www.holopin.io/@ansh242)
 
 #StandWithUkraine
 
