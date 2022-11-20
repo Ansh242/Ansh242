@@ -36,5 +36,4 @@ And I don't rage ~~hard~~.
 
 #StandWithUkraine
 
-![image](https://user-images.githubusercontent.com/29489988/155850356-508945f8-0e26-4cb5-bfe7-ceacdba5676a.png)
 
