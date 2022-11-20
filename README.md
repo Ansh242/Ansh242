@@ -15,6 +15,7 @@ And I don't rage ~~hard~~.
 
 [![Ansh242's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansh242)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=Ansh242)
 
 [![trophy][![trophy](https://github-profile-trophy.vercel.app/?username=Ansh242&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
