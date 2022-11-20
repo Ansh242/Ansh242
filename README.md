@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24297652">
+ <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 I'm Ansh, and I'm terrible at introducing myself. Nowadays, I mostly code in Python, but I've been dabbling in Java, because I can. I am into gaming(mobile) too..
 
