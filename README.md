@@ -25,7 +25,7 @@ And I don't rage ~~hard~~.
 
 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=l1v6smst12j8mp0a7pxiitjrb)](https://open.spotify.com/user/l1v6smst12j8mp0a7pxiitjrb)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=l1v6smst12j8mp0a7pxiitjrb)](https://open.spotify.com/user/l1v6smst12j8mp0a7pxiitjrb) ###TAP TO VISIT SPOTIFY PROFILE
 
 
 #### Holopin badges
