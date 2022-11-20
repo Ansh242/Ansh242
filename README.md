@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+ <img align="center" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 I'm Ansh, and I'm terrible at introducing myself. Nowadays, I mostly code in Python, but I've been dabbling in Java, because I can. I am into gaming(mobile) too..
