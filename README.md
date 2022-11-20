@@ -8,6 +8,8 @@ And I don't rage ~~hard~~.
 
 [![trophy][![trophy](https://github-profile-trophy.vercel.app/?username=Ansh242&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ansh242)](https://git.io/streak-stats)
+
 #### Holopin badges
 
 [@Ansh242's Holopin board][![@ansh242's Holopin board](https://holopin.me/ansh242)]
