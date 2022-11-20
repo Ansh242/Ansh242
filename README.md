@@ -25,7 +25,7 @@ And I don't rage ~~hard~~.
 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=l1v6smst12j8mp0a7pxiitjrb)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l1v6smst12j8mp0a7pxiitjrb&count={3})
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=l1v6smst12j8mp0a7pxiitjrb)](https://open.spotify.com/user/jeffreyca16)
 
 
 #### Holopin badges
