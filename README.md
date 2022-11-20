@@ -4,6 +4,7 @@ I'm Ansh, and I'm terrible at introducing myself. Nowadays, I mostly code in Pyt
 
 And I don't rage ~~hard~~.
 
+[![Ansh242's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansh242)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Holopin badges
 
