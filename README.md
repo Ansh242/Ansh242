@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ <img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24297652">
+
 I'm Ansh, and I'm terrible at introducing myself. Nowadays, I mostly code in Python, but I've been dabbling in Java, because I can. I am into gaming(mobile) too..
 
 And I don't rage ~~hard~~.
