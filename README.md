@@ -6,6 +6,8 @@ And I don't rage ~~hard~~.
 
 [![Ansh242's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansh242)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ansh242)](https://github.com/ryo-ma/github-profile-trophy)
+
 #### Holopin badges
 
 [@Ansh242's Holopin board][![@ansh242's Holopin board](https://holopin.me/ansh242)]
