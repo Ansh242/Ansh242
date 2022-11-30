@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![github contribution grid snake animatio](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
