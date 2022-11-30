@@ -32,7 +32,7 @@ And I don't rage ~~hard~~.
 
 [@Ansh242's Holopin board][![@ansh242's Holopin board](https://holopin.me/ansh242)]
 
-[WINNER OF HACKTOBER FEST 2022]
+[DISCORD DEV]
 
 #StandWithUkraine
 
