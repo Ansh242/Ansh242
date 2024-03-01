@@ -4,7 +4,7 @@
 
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-I'm Ansh, and I'm terrible at introducing myself. Nowadays, I mostly code in Python, but I've been dabbling in Front-end, because I can. I am into gaming(mobile) too..
+I'm Ansh, and I'm terrible at introducing myself. Nowadays, I mostly code in Python, but I've been dabbling in Front-end, because I can... 
 
 And I don't rage ~~hard~~.
 
