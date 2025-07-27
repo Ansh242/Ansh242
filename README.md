@@ -11,7 +11,7 @@ And I don't rage ~~hard~~.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Ansh2554" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/1200px-X_icon.svg.png" alt="x" height="30" width="40" /></a>
-<a href="mailto:anshkatiyar242@gmail.com?subject=Contacting%20via%20GitHub"><img src="https://gimgs2.nohat.cc/thumb/f/640/svg-mail-icon-white-on-black--freesvgorg95490.jpg"></a>
+<a href="mailto:anshkatiyar242@gmail.com?subject=Contacting%20via%20GitHub"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/High-contrast-mail-mark-unread.svg/2048px-High-contrast-mail-mark-unread.svg.png" height="30" width="40"></a>
 
 [![Ansh242's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansh242)](https://github.com/anuraghazra/github-readme-stats)
 
