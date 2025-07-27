@@ -10,7 +10,7 @@ And I don't rage ~~hard~~.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Ansh2554" target="blank"><img align="center" src="https://i.pinimg.com/736x/2f/b9/09/2fb909b74a854f0715e64dda5825990d.jpg" alt="x" height="30" width="40" /></a>
+<a href="https://twitter.com/Ansh2554" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/1200px-X_icon.svg.png" alt="x" height="30" width="40" /></a>
 <!--<a href="https://www.instagram.com/ansh11.02/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <!--<a href="https://www.youtube.com/channel/UClA1b-fP1JYSN-lZi3f3bhA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>--->
